@@ -70,7 +70,7 @@ For detailed simulation results and analysis, refer to the [Design Report](Repor
 
 ## Transistor Sizing
 
-All transistors use a channel length of $1.0\,\mu\text{m}$. The transistor widths used in the design are given below.
+All transistors use a channel length of $1.0\ \mu\text{m}$. The transistor widths used in the design are given below.
 
 | Transistor | Function | Type | Width ($W$) ($\mu\text{m}$) | Length ($L$) ($\mu\text{m}$) |
 |---|---|---|---:|---:|
